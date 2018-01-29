@@ -1,0 +1,20 @@
+.chat{
+  height: 350px;
+}
+
+.message{
+  width: 35px;
+}
+
+.contentWrap{
+  display: none;
+}
+
+.nickname{
+  width: 150px;
+}
+
+.chatWrap{
+  float: left;
+  border: 2px solid black;
+}
